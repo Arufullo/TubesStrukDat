@@ -1,8 +1,8 @@
 #include "portofolio.h"
 
 
-int main()
-{
-    cout << "Hello world!" << endl;
+int main() {
+
+
     return 0;
 }
